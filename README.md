@@ -20,17 +20,26 @@ Tools: Git, Maven
 Databases: MySQL
 
 📚 Recent Projects
-Project Name 1:   个人博客系统
+Project Name 1:   商城后台
 
 Technologies used: Java, Spring Boot, MySQL、 vue
 
 Repository Link
 
-Project Name 2: 任务管理系统，用户可以创建、更新和删除任务
+Project Name 2: 每日计划管理，用户可以创建、更新和删除任务
 
 Technologies used: java、servlet、 jsp
 
 Repository Link
 
-Project Name 3: 图书管理系统，管理员可以添加、删除和更新图书信息
-Technologies used： Java, Spring Boot, vue, MySQL
+Project Name 3: 小程序商城API
+Technologies used： Java, Spring Boot, MySQL
+### 🌤🌤🌤🌤
+
+<div align="left">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/douglarek/douglarek/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/douglarek/douglarek/output/github-contribution-grid-snake.svg">
+  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://raw.githubusercontent.com/douglarek/douglarek/output/github-contribution-grid-snake.svg">
+</picture>  
+</div>
